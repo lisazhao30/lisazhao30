@@ -4,7 +4,7 @@
 - 👩🏻‍💻 I'm interested in frontend and fullstack development!
 - 📚 Currently learning more about testing frameworks (Jest)
 - 🌅 In my spare time, I like to go on long sunset walks
-- 📱 Connect with me on (https://www.linkedin.com/in/lisazhao03/ "LinkedIn")
+- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/lisazhao03/ "LinkedIn")
 
 <!--
 **lisazhao30/lisazhao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
