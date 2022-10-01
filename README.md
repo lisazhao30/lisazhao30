@@ -1,9 +1,8 @@
 ### Hi, I'm Lisa 👋
 
-- 🎓 I am a 1B Systems Design Engineering student at the University of Waterloo
+- 🎓 I am a 2A Systems Design Engineering student at the University of Waterloo
 - 👩🏻‍💻 I'm interested in frontend and fullstack development!
-- 📚 Currently learning more about testing frameworks (Jest)
-- 🌅 In my spare time, I like to go on long sunset walks
+- 📚 Currently learning more about Python
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/lisazhao03/ "LinkedIn")
 
 <!--
