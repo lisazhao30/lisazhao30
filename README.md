@@ -1,6 +1,6 @@
 ### Hi, I'm Lisa 👋
 
-- 🎓 I am a 2B Systems Design Engineering student at the University of Waterloo
+- 🎓 I am a 3A Systems Design Engineering student at the University of Waterloo
 
 <!--
 **lisazhao30/lisazhao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
