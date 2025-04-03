@@ -1,6 +1,7 @@
 ### Hi, I'm Lisa 👋
 
-- 🎓 I am a 3B Systems Design Engineering student at the University of Waterloo
+- 🎓 I am a fourth year Systems Design Engineering student at the University of Waterloo
+- 💻 Seeking new grad SWE roles for 2026
 
 <!--
 **lisazhao30/lisazhao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
